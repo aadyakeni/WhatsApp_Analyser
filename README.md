@@ -15,3 +15,30 @@ This Streamlit-based application allows you to analyze WhatsApp chat data in an 
 - **Most Common Words**: Bar chart displaying the most common words used in the chat.
 - **Emoji Analysis**: Breakdown of the most frequently used emojis.
 
+### Installation
+
+**1. Clone the repository**:
+
+   ```
+   git clone https://github.com/aadyakeni/WhatsApp_Analyser.git
+   ```
+**2. Navigate to the project directory**:
+
+   ```
+   cd whatsapp-chat-analyzer
+   ```
+
+**3. Install the dependencies**:
+
+   ```
+   pip install -r requirements.txt
+   ```
+
+**4. Run the Streamlit app**:
+
+   ```
+   streamlit run app.py
+   ```
+**5. Upload your WhatsApp chat file: The chat file should be in .txt format, which you can export from WhatsApp.**:
+
+
